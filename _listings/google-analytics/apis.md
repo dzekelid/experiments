@@ -27,7 +27,7 @@ apis:
   tags: Experiment
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/experiment/master/_listings/google-analytics/management-accounts-accountid-webproperties-webpropertyid-profiles-profileid-experiments-experimentid-patch.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/experiment/master/_listings/google-analytics/management-accounts-accountid-webproperties-webpropertyid-profiles-profileid-experiments-experimentid-put.md
 x-common:
 - type: x-blog
   url: https://analytics.googleblog.com/
